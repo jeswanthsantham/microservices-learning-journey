@@ -1,93 +1,87 @@
-1:22:48 Memory Pressure: Moderate
-1:22:58 Memory Pressure: Moderate
-1:23:08 Memory Pressure: Moderate
-1:23:18 Memory Pressure: Moderate
-1:23:28 Memory Pressure: Moderate
-1:23:38 Memory Pressure: Moderate
-1:23:48 Memory Pressure: Moderate
-1:23:58 Memory Pressure: Moderate
-1:24:08 Memory Pressure: Moderate
-1:24:18 Memory Pressure: Moderate
-1:24:28 Memory Pressure: Moderate
-1:24:38 Memory Pressure: Moderate
-1:24:48 Memory Pressure: Moderate
-1:24:58 Memory Pressure: Moderate
-1:25:08 Memory Pressure: Moderate
-1:25:18 Memory Pressure: Moderate
-1:25:28 Memory Pressure: Moderate
-1:25:38 Memory Pressure: Moderate
-1:25:48 Memory Pressure: Moderate
-1:25:58 Memory Pressure: Moderate
-1:26:08 Memory Pressure: Moderate
-1:26:18 Memory Pressure: Moderate
-1:26:28 Memory Pressure: Moderate
-1:26:39 Memory Pressure: Moderate
-1:26:49 Memory Pressure: Moderate
-1:26:59 Memory Pressure: Moderate
-1:27:09 Memory Pressure: Moderate
-1:27:19 Memory Pressure: Moderate
-1:27:29 Memory Pressure: Moderate
-1:27:39 Memory Pressure: Moderate
-1:30:14 Memory Pressure: Moderate
-1:30:24 Memory Pressure: Moderate
-1:30:34 Memory Pressure: Moderate
-1:30:44 Memory Pressure: Moderate
-1:30:54 Memory Pressure: Moderate
-2:15:25 Memory Pressure: Moderate
-2:15:35 Memory Pressure: Moderate
-2:15:50 Memory Pressure: Moderate
-2:16:15 Memory Pressure: Moderate
-2:17:20 Memory Pressure: Moderate
-2:17:30 Memory Pressure: Moderate
-2:17:40 Memory Pressure: Moderate
-2:17:50 Memory Pressure: Moderate
-2:18:00 Memory Pressure: Moderate
-2:18:10 Memory Pressure: Moderate
-2:18:20 Memory Pressure: Moderate
-2:18:30 Memory Pressure: Moderate
-2:18:40 Memory Pressure: Moderate
-2:18:50 Memory Pressure: Moderate
-2:19:00 Memory Pressure: Moderate
-2:19:10 Memory Pressure: Moderate
-2:19:20 Memory Pressure: Moderate
-2:19:30 Memory Pressure: Moderate
-2:19:40 Memory Pressure: Moderate
-2:20:25 Memory Pressure: Moderate
-2:20:35 Memory Pressure: Moderate
-2:20:45 Memory Pressure: Moderate
-2:20:55 Memory Pressure: Moderate
-2:21:05 Memory Pressure: Moderate
-2:21:15 Memory Pressure: Moderate
-2:21:25 Memory Pressure: Moderate
-2:21:35 Memory Pressure: Moderate
-2:21:45 Memory Pressure: Moderate
-2:21:55 Memory Pressure: Moderate
-2:22:06 Memory Pressure: Moderate
-2:22:16 Memory Pressure: Moderate
-2:22:26 Memory Pressure: Moderate
-2:22:36 Memory Pressure: Moderate
-2:22:46 Memory Pressure: Moderate
-2:22:56 Memory Pressure: Moderate
-2:23:06 Memory Pressure: Moderate
-2:23:16 Memory Pressure: Moderate
-2:23:26 Memory Pressure: Moderate
-2:23:36 Memory Pressure: Moderate
-2:23:46 Memory Pressure: Moderate
-2:23:56 Memory Pressure: Moderate
-2:24:06 Memory Pressure: Moderate
-2:24:16 Memory Pressure: Moderate
-2:24:26 Memory Pressure: Moderate
-2:24:36 Memory Pressure: Moderate
-2:24:46 Memory Pressure: Moderate
-2:24:56 Memory Pressure: Moderate
-2:25:06 Memory Pressure: Moderate
-2:25:16 Memory Pressure: Moderate
-2:36:34 Memory Pressure: Moderate
-2:36:44 Memory Pressure: Moderate
-2:36:54 Memory Pressure: Moderate
-2:37:04 Memory Pressure: Moderate
-2:37:14 Memory Pressure: Moderate
-2:37:24 Memory Pressure: Moderate
-2:37:34 Memory Pressure: Moderate
-2:40:09 Memory Pressure: Moderate
-2:40:19 Memory Pressure: Moderate
+0:19:19 Tab8 PageLoad
+0:19:27 Memory Pressure: Moderate
+0:19:30 Tab3 StartNav97 #typed
+0:19:30 Tab3 FinishNav97
+0:19:30 Tab3 PageLoad
+0:19:36 Tab8 StartNav98 #typed
+0:19:36 Tab8 FinishNav98
+0:19:36 Tab8 PageLoad
+0:19:37 Memory Pressure: Moderate
+0:19:40 Tab8 StartNav99 #typed
+0:19:40 Tab8 FinishNav99
+0:19:40 Tab8 PageLoad
+0:19:43 Tab8 StartNav100 #typed
+0:19:43 Tab8 FinishNav100
+0:19:43 Tab8 PageLoad
+0:19:45 Tab8 StartNav101 #typed
+0:19:45 Tab8 FinishNav101
+0:19:45 Tab8 PageLoad
+0:19:47 Memory Pressure: Moderate
+0:19:54 Tab8 StartNav102 #typed
+0:19:54 Tab8 FinishNav102
+0:19:54 Tab8 PageLoad
+0:19:57 Memory Pressure: Moderate
+0:20:05 Tab8 StartNav103 #typed
+0:20:05 Tab8 FinishNav103
+0:20:05 Tab8 PageLoad
+0:20:07 Memory Pressure: Moderate
+0:20:09 Tab8 StartNav104 #typed
+0:20:09 Tab8 FinishNav104
+0:20:09 Tab8 PageLoad
+0:20:15 Tab8 StartNav105 #typed
+0:20:15 Tab8 FinishNav105
+0:20:15 Tab8 PageLoad
+0:20:16 Tab8 StartNav106 #typed
+0:20:16 Tab8 FinishNav106
+0:20:16 Tab8 PageLoad
+0:20:17 Memory Pressure: Moderate
+0:20:18 Microsoft.NewBrowser_Popup
+0:20:18 Microsoft.BrowserList.AddBrowser
+0:20:18 Browser9 Insert active Tab9 at 0
+0:20:18 Tab9 StartNav107 #auto_toplevel
+0:20:18 Tab8 StartNav108 #typed
+0:20:18 Tab9 StartNav109 #typed
+0:20:18 Tab8 FinishNav108
+0:20:18 Tab8 PageLoad
+0:20:18 Tab8 StartNav110 #typed
+0:20:18 Tab8 FinishNav110
+0:20:18 Tab8 PageLoad
+0:20:18 Tab9 FinishNav107
+0:20:18 Tab9 PageLoad
+0:20:18 Tab9 FinishNav109
+0:20:18 Tab9 PageLoad
+0:20:18 Tab8 StartNav111 #typed
+0:20:18 Tab8 FinishNav111
+0:20:18 Tab8 PageLoad
+0:20:18 Tab9 StartNav112 #typed
+0:20:18 Tab9 FinishNav112
+0:20:18 Tab9 PageLoad
+0:20:19 Tab8 StartNav113 #typed
+0:20:19 Tab8 FinishNav113
+0:20:19 Tab8 PageLoad
+0:20:27 Memory Pressure: Moderate
+0:20:30 Tab8 StartNav114 #typed
+0:20:30 Tab8 FinishNav114
+0:20:30 Tab8 PageLoad
+0:20:33 Tab8 StartNav115 #typed
+0:20:33 Tab8 FinishNav115
+0:20:33 Tab8 PageLoad
+0:20:37 Memory Pressure: Moderate
+0:20:47 Memory Pressure: Moderate
+0:20:57 Memory Pressure: Moderate
+0:21:07 Memory Pressure: Moderate
+0:21:17 Memory Pressure: Moderate
+0:21:19 Tab8 StartNav116 #typed
+0:21:19 Tab8 FinishNav116
+0:21:19 Tab8 PageLoad
+0:21:20 Tab8 StartNav117 #typed
+0:21:20 Tab8 FinishNav117
+0:21:20 Tab8 PageLoad
+0:21:23 Tab8 StartNav118 #typed
+0:21:23 Tab8 FinishNav118
+0:21:23 Tab8 PageLoad
+0:21:27 Memory Pressure: Moderate
+0:21:37 Memory Pressure: Moderate
+0:21:47 Memory Pressure: Moderate
+0:21:57 Memory Pressure: Moderate
+0:22:07 Memory Pressure: Moderate
