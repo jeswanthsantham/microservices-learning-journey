@@ -20,7 +20,7 @@ public class CallerServiceImpl implements ICallerService{
 	public String printUserDetails(String username) {
 //		http://localhost:8081/greeter/print/userdetails?username=Jeshu
 		
-		String url = BASEURL.concat("print/userdetails?username=").concat(username);
+		String url = BASEURL.concat("/print/userdetails?username=").concat(username);
 		ResponseEntity<String> responseEntity = template.getForEntity(url, String.class);
 		System.out.println(responseEntity.getStatusCode());
 		return responseEntity.getBody();
